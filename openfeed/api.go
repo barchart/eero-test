@@ -1,3 +1,3 @@
 package openfeed
 
-const XXX = 1
+const XXX = 2
